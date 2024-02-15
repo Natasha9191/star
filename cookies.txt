@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.depositphotos.com	TRUE	/	FALSE	1999999999	10_lang	en
+.depositphotos.com	TRUE	/	FALSE	1999999999	browserSessionId	b13607c456c0d1a5953b09f584b7ffc5178b99100c7594627daa57e8fa69da24
+
